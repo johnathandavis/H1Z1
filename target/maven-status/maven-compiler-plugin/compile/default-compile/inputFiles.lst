@@ -1,0 +1,13 @@
+/Users/NoahFlint/h1z1/src/main/java/h1z1/game/GameState.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/MainFrame.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/screens/ScreenManager.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/screens/PlayGameScreenManager.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/Startup.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/input/InputButton.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/input/InputProvider.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/screens/ExitGameScreenManager.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/io/ResourceManager.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/input/ButtonHandler.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/input/GamePadInputProvider.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/input/KeyboardInputProvider.java
+/Users/NoahFlint/h1z1/src/main/java/h1z1/screens/TitleScreenManager.java

@@ -11,7 +11,4 @@ public enum InputButton {
     LEFT,
     RIGHT,
     BASIC,
-    SPECIAL,
-    JUMP,
-    BLOCK,
 }

@@ -64,12 +64,6 @@ public class KeyboardInputProvider extends InputProvider {
                 return 68; // D
             case BASIC:
                 return 74; // J
-            case SPECIAL:
-                return 75; // K
-            case JUMP:
-                return 32; // Space
-            case BLOCK:
-                return 76; //L
             default:
                 return null;
         }
@@ -87,12 +81,6 @@ public class KeyboardInputProvider extends InputProvider {
                 return InputButton.RIGHT;
             case 74:
                 return InputButton.BASIC;
-            case 75:
-                return InputButton.SPECIAL;
-            case 32:
-                return InputButton.JUMP;
-            case 76:
-                return InputButton.BLOCK;
             default:
                 return null;
         }

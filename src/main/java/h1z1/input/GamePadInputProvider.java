@@ -85,12 +85,6 @@ public class GamePadInputProvider extends InputProvider {
         else unsetButton(InputButton.DOWN);
         if (isBasic) updateAndFireIfBound(InputButton.BASIC);
         else unsetButton(InputButton.BASIC);
-        if (isSpecial) updateAndFireIfBound(InputButton.SPECIAL);
-        else unsetButton(InputButton.SPECIAL);
-        if (isJump) updateAndFireIfBound(InputButton.JUMP);
-        else unsetButton(InputButton.JUMP);
-        if (isBlock) updateAndFireIfBound(InputButton.BLOCK);
-        else unsetButton(InputButton.BLOCK);
     }
 
     @Override
